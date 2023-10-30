@@ -2,8 +2,7 @@ name: riverpod_widget_annotation
 description: A starting point for Dart libraries or applications.
 version: 0.0.1
 homepage: https://furkanacar.dev
-repository: https://github.com/AcarFurkan/widget_gen_annotation
-
+repository: https://github.com/AcarFurkan/riverpod_widget_annotation
 environment:
   sdk: '>=3.0.0 <4.0.0'
 
