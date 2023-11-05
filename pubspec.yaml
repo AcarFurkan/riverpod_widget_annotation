@@ -1,6 +1,6 @@
 name: riverpod_widget_annotation
 description: This is a code generation annotation for widget_gen package.
-version: 0.0.1
+version: 0.0.2
 homepage: https://furkanacar.dev
 repository: https://github.com/AcarFurkan/riverpod_widget_annotation
 environment:
